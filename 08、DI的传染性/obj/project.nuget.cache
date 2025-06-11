@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QFet8PPHq7Y=",
+  "success": true,
+  "projectFilePath": "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\08、DI的传染性\\08、DI的传染性.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administered\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.5\\microsoft.extensions.dependencyinjection.9.0.5.nupkg.sha512",
+    "C:\\Users\\Administered\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

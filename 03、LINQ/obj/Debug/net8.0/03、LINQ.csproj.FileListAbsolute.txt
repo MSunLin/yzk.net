@@ -1,0 +1,14 @@
+D:\学习\计算机\.NET6杨中科\DoNET6杨中科\03、LINQ\bin\Debug\net8.0\03、LINQ.exe
+D:\学习\计算机\.NET6杨中科\DoNET6杨中科\03、LINQ\bin\Debug\net8.0\03、LINQ.deps.json
+D:\学习\计算机\.NET6杨中科\DoNET6杨中科\03、LINQ\bin\Debug\net8.0\03、LINQ.runtimeconfig.json
+D:\学习\计算机\.NET6杨中科\DoNET6杨中科\03、LINQ\bin\Debug\net8.0\03、LINQ.dll
+D:\学习\计算机\.NET6杨中科\DoNET6杨中科\03、LINQ\bin\Debug\net8.0\03、LINQ.pdb
+D:\学习\计算机\.NET6杨中科\DoNET6杨中科\03、LINQ\obj\Debug\net8.0\03、LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\学习\计算机\.NET6杨中科\DoNET6杨中科\03、LINQ\obj\Debug\net8.0\03、LINQ.AssemblyInfoInputs.cache
+D:\学习\计算机\.NET6杨中科\DoNET6杨中科\03、LINQ\obj\Debug\net8.0\03、LINQ.AssemblyInfo.cs
+D:\学习\计算机\.NET6杨中科\DoNET6杨中科\03、LINQ\obj\Debug\net8.0\03、LINQ.csproj.CoreCompileInputs.cache
+D:\学习\计算机\.NET6杨中科\DoNET6杨中科\03、LINQ\obj\Debug\net8.0\03、LINQ.dll
+D:\学习\计算机\.NET6杨中科\DoNET6杨中科\03、LINQ\obj\Debug\net8.0\refint\03、LINQ.dll
+D:\学习\计算机\.NET6杨中科\DoNET6杨中科\03、LINQ\obj\Debug\net8.0\03、LINQ.pdb
+D:\学习\计算机\.NET6杨中科\DoNET6杨中科\03、LINQ\obj\Debug\net8.0\03、LINQ.genruntimeconfig.cache
+D:\学习\计算机\.NET6杨中科\DoNET6杨中科\03、LINQ\obj\Debug\net8.0\ref\03、LINQ.dll
