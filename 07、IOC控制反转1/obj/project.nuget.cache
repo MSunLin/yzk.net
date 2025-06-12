@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "MLU9oYFtizk=",
+  "dgSpecHash": "M1g+oK9mG7I=",
   "success": true,
-  "projectFilePath": "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\07、IOC控制反转1\\07、IOC控制反转1.csproj",
+  "projectFilePath": "D:\\88、学习\\计算机\\01、开发\\杨中科.NET6\\yzk.net\\07、IOC控制反转1\\07、IOC控制反转1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administered\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.5\\microsoft.extensions.dependencyinjection.9.0.5.nupkg.sha512",
-    "C:\\Users\\Administered\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512"
+    "C:\\Users\\SunLin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.5\\microsoft.extensions.dependencyinjection.9.0.5.nupkg.sha512",
+    "C:\\Users\\SunLin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512"
   ],
   "logs": []
 }
