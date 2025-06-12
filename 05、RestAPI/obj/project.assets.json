@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\05、RestAPI\\05、RestAPI.csproj",
+      "projectUniqueName": "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\05、RestAPI\\05、RestAPI.csproj",
       "projectName": "05、RestAPI",
-      "projectPath": "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\05、RestAPI\\05、RestAPI.csproj",
+      "projectPath": "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\05、RestAPI\\05、RestAPI.csproj",
       "packagesPath": "C:\\Users\\Administered\\.nuget\\packages\\",
-      "outputPath": "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\05、RestAPI\\obj\\",
+      "outputPath": "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\05、RestAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

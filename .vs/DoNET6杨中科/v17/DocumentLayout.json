@@ -1,30 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\DoNET6\u6768\u4E2D\u79D1\\",
+  "WorkspaceRootPath": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\yzk.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A101B09D-F039-4C82-8DD4-E72B75902F75}|08\u3001DI\u7684\u4F20\u67D3\u6027\\08\u3001DI\u7684\u4F20\u67D3\u6027.csproj|d:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.net6\u6768\u4E2D\u79D1\\donet6\u6768\u4E2D\u79D1\\08\u3001di\u7684\u4F20\u67D3\u6027\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A101B09D-F039-4C82-8DD4-E72B75902F75}|08\u3001DI\u7684\u4F20\u67D3\u6027\\08\u3001DI\u7684\u4F20\u67D3\u6027.csproj|solutionrelative:08\u3001di\u7684\u4F20\u67D3\u6027\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{749D3474-768D-4C9A-BAEF-63C8C46AD7A8}|09\u3001\u4F9D\u8D56\u6CE8\u5165DI\u6848\u4F8B\\09\u3001\u4F9D\u8D56\u6CE8\u5165DI\u6848\u4F8B.csproj|d:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.net6\u6768\u4E2D\u79D1\\yzk.net\\09\u3001\u4F9D\u8D56\u6CE8\u5165di\u6848\u4F8B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749D3474-768D-4C9A-BAEF-63C8C46AD7A8}|09\u3001\u4F9D\u8D56\u6CE8\u5165DI\u6848\u4F8B\\09\u3001\u4F9D\u8D56\u6CE8\u5165DI\u6848\u4F8B.csproj|solutionrelative:09\u3001\u4F9D\u8D56\u6CE8\u5165di\u6848\u4F8B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A101B09D-F039-4C82-8DD4-E72B75902F75}|08\u3001DI\u7684\u4F20\u67D3\u6027\\08\u3001DI\u7684\u4F20\u67D3\u6027.csproj|d:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.net6\u6768\u4E2D\u79D1\\donet6\u6768\u4E2D\u79D1\\08\u3001di\u7684\u4F20\u67D3\u6027\\08\u3001di\u7684\u4F20\u67D3\u6027.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A101B09D-F039-4C82-8DD4-E72B75902F75}|08\u3001DI\u7684\u4F20\u67D3\u6027\\08\u3001DI\u7684\u4F20\u67D3\u6027.csproj|solutionrelative:08\u3001di\u7684\u4F20\u67D3\u6027\\08\u3001di\u7684\u4F20\u67D3\u6027.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AC2AF73F-1766-4F56-8621-74CBA1F1AFBB}|LogServices\\LogServices.csproj|d:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.net6\u6768\u4E2D\u79D1\\yzk.net\\logservices\\consolelogprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2AF73F-1766-4F56-8621-74CBA1F1AFBB}|LogServices\\LogServices.csproj|solutionrelative:logservices\\consolelogprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6970D57-2E0F-4544-810C-08D174A7373E}|07\u3001IOC\u63A7\u5236\u53CD\u8F6C1\\07\u3001IOC\u63A7\u5236\u53CD\u8F6C1.csproj|d:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.net6\u6768\u4E2D\u79D1\\donet6\u6768\u4E2D\u79D1\\07\u3001ioc\u63A7\u5236\u53CD\u8F6C1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6970D57-2E0F-4544-810C-08D174A7373E}|07\u3001IOC\u63A7\u5236\u53CD\u8F6C1\\07\u3001IOC\u63A7\u5236\u53CD\u8F6C1.csproj|solutionrelative:07\u3001ioc\u63A7\u5236\u53CD\u8F6C1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6970D57-2E0F-4544-810C-08D174A7373E}|07\u3001IOC\u63A7\u5236\u53CD\u8F6C1\\07\u3001IOC\u63A7\u5236\u53CD\u8F6C1.csproj|d:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.net6\u6768\u4E2D\u79D1\\donet6\u6768\u4E2D\u79D1\\07\u3001ioc\u63A7\u5236\u53CD\u8F6C1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6970D57-2E0F-4544-810C-08D174A7373E}|07\u3001IOC\u63A7\u5236\u53CD\u8F6C1\\07\u3001IOC\u63A7\u5236\u53CD\u8F6C1.csproj|solutionrelative:07\u3001ioc\u63A7\u5236\u53CD\u8F6C1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C88C7681-60F0-4BF9-A7CA-6A2CBF9DD349}|06\u3001\u4F9D\u8D56\u6CE8\u5165\\06\u3001\u4F9D\u8D56\u6CE8\u5165.csproj|d:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.net6\u6768\u4E2D\u79D1\\donet6\u6768\u4E2D\u79D1\\06\u3001\u4F9D\u8D56\u6CE8\u5165\\\u7B14\u8BB0.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C88C7681-60F0-4BF9-A7CA-6A2CBF9DD349}|06\u3001\u4F9D\u8D56\u6CE8\u5165\\06\u3001\u4F9D\u8D56\u6CE8\u5165.csproj|solutionrelative:06\u3001\u4F9D\u8D56\u6CE8\u5165\\\u7B14\u8BB0.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C88C7681-60F0-4BF9-A7CA-6A2CBF9DD349}|06\u3001\u4F9D\u8D56\u6CE8\u5165\\06\u3001\u4F9D\u8D56\u6CE8\u5165.csproj|d:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.net6\u6768\u4E2D\u79D1\\donet6\u6768\u4E2D\u79D1\\06\u3001\u4F9D\u8D56\u6CE8\u5165\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C88C7681-60F0-4BF9-A7CA-6A2CBF9DD349}|06\u3001\u4F9D\u8D56\u6CE8\u5165\\06\u3001\u4F9D\u8D56\u6CE8\u5165.csproj|solutionrelative:06\u3001\u4F9D\u8D56\u6CE8\u5165\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A9038E59-E3F6-41D2-B432-E069766FEFA1}|ConfigServices\\ConfigServices.csproj|d:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.net6\u6768\u4E2D\u79D1\\yzk.net\\configservices\\envvarconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9038E59-E3F6-41D2-B432-E069766FEFA1}|ConfigServices\\ConfigServices.csproj|solutionrelative:configservices\\envvarconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "08\u3001DI\u7684\u4F20\u67D3\u6027",
-              "DocumentMoniker": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\DoNET6\u6768\u4E2D\u79D1\\08\u3001DI\u7684\u4F20\u67D3\u6027\\08\u3001DI\u7684\u4F20\u67D3\u6027.csproj",
-              "RelativeDocumentMoniker": "08\u3001DI\u7684\u4F20\u67D3\u6027\\08\u3001DI\u7684\u4F20\u67D3\u6027.csproj",
-              "ToolTip": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\DoNET6\u6768\u4E2D\u79D1\\08\u3001DI\u7684\u4F20\u67D3\u6027\\08\u3001DI\u7684\u4F20\u67D3\u6027.csproj",
-              "RelativeToolTip": "08\u3001DI\u7684\u4F20\u67D3\u6027\\08\u3001DI\u7684\u4F20\u67D3\u6027.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-10T07:38:55.926Z",
+              "Title": "ConsoleLogProvider.cs",
+              "DocumentMoniker": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\yzk.net\\LogServices\\ConsoleLogProvider.cs",
+              "RelativeDocumentMoniker": "LogServices\\ConsoleLogProvider.cs",
+              "ToolTip": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\yzk.net\\LogServices\\ConsoleLogProvider.cs",
+              "RelativeToolTip": "LogServices\\ConsoleLogProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:56:27.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnvVarConfigService.cs",
+              "DocumentMoniker": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\yzk.net\\ConfigServices\\EnvVarConfigService.cs",
+              "RelativeDocumentMoniker": "ConfigServices\\EnvVarConfigService.cs",
+              "ToolTip": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\yzk.net\\ConfigServices\\EnvVarConfigService.cs",
+              "RelativeToolTip": "ConfigServices\\EnvVarConfigService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:56:11.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\DoNET6\u6768\u4E2D\u79D1\\08\u3001DI\u7684\u4F20\u67D3\u6027\\Program.cs",
-              "RelativeDocumentMoniker": "08\u3001DI\u7684\u4F20\u67D3\u6027\\Program.cs",
-              "ToolTip": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\DoNET6\u6768\u4E2D\u79D1\\08\u3001DI\u7684\u4F20\u67D3\u6027\\Program.cs",
-              "RelativeToolTip": "08\u3001DI\u7684\u4F20\u67D3\u6027\\Program.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAcwFkAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\yzk.net\\09\u3001\u4F9D\u8D56\u6CE8\u5165DI\u6848\u4F8B\\Program.cs",
+              "RelativeDocumentMoniker": "09\u3001\u4F9D\u8D56\u6CE8\u5165DI\u6848\u4F8B\\Program.cs",
+              "ToolTip": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\yzk.net\\09\u3001\u4F9D\u8D56\u6CE8\u5165DI\u6848\u4F8B\\Program.cs",
+              "RelativeToolTip": "09\u3001\u4F9D\u8D56\u6CE8\u5165DI\u6848\u4F8B\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T07:25:50.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\DoNET6\u6768\u4E2D\u79D1\\07\u3001IOC\u63A7\u5236\u53CD\u8F6C1\\Class1.cs",
-              "RelativeDocumentMoniker": "07\u3001IOC\u63A7\u5236\u53CD\u8F6C1\\Class1.cs",
-              "ToolTip": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\DoNET6\u6768\u4E2D\u79D1\\07\u3001IOC\u63A7\u5236\u53CD\u8F6C1\\Class1.cs",
-              "RelativeToolTip": "07\u3001IOC\u63A7\u5236\u53CD\u8F6C1\\Class1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T06:44:42.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\DoNET6\u6768\u4E2D\u79D1\\07\u3001IOC\u63A7\u5236\u53CD\u8F6C1\\Program.cs",
-              "RelativeDocumentMoniker": "07\u3001IOC\u63A7\u5236\u53CD\u8F6C1\\Program.cs",
-              "ToolTip": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\DoNET6\u6768\u4E2D\u79D1\\07\u3001IOC\u63A7\u5236\u53CD\u8F6C1\\Program.cs",
-              "RelativeToolTip": "07\u3001IOC\u63A7\u5236\u53CD\u8F6C1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T06:38:39.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "\u7B14\u8BB0.txt",
-              "DocumentMoniker": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\DoNET6\u6768\u4E2D\u79D1\\06\u3001\u4F9D\u8D56\u6CE8\u5165\\\u7B14\u8BB0.txt",
-              "RelativeDocumentMoniker": "06\u3001\u4F9D\u8D56\u6CE8\u5165\\\u7B14\u8BB0.txt",
-              "ToolTip": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\DoNET6\u6768\u4E2D\u79D1\\06\u3001\u4F9D\u8D56\u6CE8\u5165\\\u7B14\u8BB0.txt",
-              "RelativeToolTip": "06\u3001\u4F9D\u8D56\u6CE8\u5165\\\u7B14\u8BB0.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-06-09T06:26:38.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\DoNET6\u6768\u4E2D\u79D1\\06\u3001\u4F9D\u8D56\u6CE8\u5165\\appsettings.json",
-              "RelativeDocumentMoniker": "06\u3001\u4F9D\u8D56\u6CE8\u5165\\appsettings.json",
-              "ToolTip": "D:\\\u5B66\u4E60\\\u8BA1\u7B97\u673A\\.NET6\u6768\u4E2D\u79D1\\DoNET6\u6768\u4E2D\u79D1\\06\u3001\u4F9D\u8D56\u6CE8\u5165\\appsettings.json",
-              "RelativeToolTip": "06\u3001\u4F9D\u8D56\u6CE8\u5165\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-09T06:18:03.798Z",
+              "WhenOpened": "2025-06-12T05:55:37.842Z",
               "EditorCaption": ""
             }
           ]

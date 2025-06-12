@@ -113,11 +113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\07、IOC控制反转1\\07、IOC控制反转1.csproj",
+      "projectUniqueName": "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\07、IOC控制反转1\\07、IOC控制反转1.csproj",
       "projectName": "07、IOC控制反转1",
-      "projectPath": "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\07、IOC控制反转1\\07、IOC控制反转1.csproj",
+      "projectPath": "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\07、IOC控制反转1\\07、IOC控制反转1.csproj",
       "packagesPath": "C:\\Users\\Administered\\.nuget\\packages\\",
-      "outputPath": "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\07、IOC控制反转1\\obj\\",
+      "outputPath": "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\07、IOC控制反转1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

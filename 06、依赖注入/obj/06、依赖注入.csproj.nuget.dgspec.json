@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\06、依赖注入\\06、依赖注入.csproj": {}
+    "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\06、依赖注入\\06、依赖注入.csproj": {}
   },
   "projects": {
-    "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\06、依赖注入\\06、依赖注入.csproj": {
+    "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\06、依赖注入\\06、依赖注入.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\06、依赖注入\\06、依赖注入.csproj",
+        "projectUniqueName": "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\06、依赖注入\\06、依赖注入.csproj",
         "projectName": "06、依赖注入",
-        "projectPath": "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\06、依赖注入\\06、依赖注入.csproj",
+        "projectPath": "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\06、依赖注入\\06、依赖注入.csproj",
         "packagesPath": "C:\\Users\\Administered\\.nuget\\packages\\",
-        "outputPath": "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\06、依赖注入\\obj\\",
+        "outputPath": "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\06、依赖注入\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

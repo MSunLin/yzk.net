@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\02、异步编程_获取网页信息\\02、异步编程_获取网页信息.csproj",
+      "projectUniqueName": "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\02、异步编程_获取网页信息\\02、异步编程_获取网页信息.csproj",
       "projectName": "02、异步编程_获取网页信息",
-      "projectPath": "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\02、异步编程_获取网页信息\\02、异步编程_获取网页信息.csproj",
+      "projectPath": "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\02、异步编程_获取网页信息\\02、异步编程_获取网页信息.csproj",
       "packagesPath": "C:\\Users\\Administered\\.nuget\\packages\\",
-      "outputPath": "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\02、异步编程_获取网页信息\\obj\\",
+      "outputPath": "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\02、异步编程_获取网页信息\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

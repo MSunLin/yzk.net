@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02、异步编程_获取网页信息")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc40171bb8cc374b74908d2f5f215bfc4858512c")]
 [assembly: System.Reflection.AssemblyProductAttribute("02、异步编程_获取网页信息")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02、异步编程_获取网页信息")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\03、LINQ\\03、委托.csproj",
+      "projectUniqueName": "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\03、LINQ\\03、委托.csproj",
       "projectName": "03、委托",
-      "projectPath": "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\03、LINQ\\03、委托.csproj",
+      "projectPath": "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\03、LINQ\\03、委托.csproj",
       "packagesPath": "C:\\Users\\Administered\\.nuget\\packages\\",
-      "outputPath": "D:\\学习\\计算机\\.NET6杨中科\\DoNET6杨中科\\03、LINQ\\obj\\",
+      "outputPath": "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\03、LINQ\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
