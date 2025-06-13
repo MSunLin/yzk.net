@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\88、学习\\计算机\\01、开发\\杨中科.NET6\\yzk.net\\04、Lambda表达式\\04、Lambda表达式.csproj": {}
+    "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\04、Lambda表达式\\04、Lambda表达式.csproj": {}
   },
   "projects": {
-    "D:\\88、学习\\计算机\\01、开发\\杨中科.NET6\\yzk.net\\04、Lambda表达式\\04、Lambda表达式.csproj": {
+    "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\04、Lambda表达式\\04、Lambda表达式.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\88、学习\\计算机\\01、开发\\杨中科.NET6\\yzk.net\\04、Lambda表达式\\04、Lambda表达式.csproj",
+        "projectUniqueName": "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\04、Lambda表达式\\04、Lambda表达式.csproj",
         "projectName": "04、Lambda表达式",
-        "projectPath": "D:\\88、学习\\计算机\\01、开发\\杨中科.NET6\\yzk.net\\04、Lambda表达式\\04、Lambda表达式.csproj",
-        "packagesPath": "C:\\Users\\SunLin\\.nuget\\packages\\",
-        "outputPath": "D:\\88、学习\\计算机\\01、开发\\杨中科.NET6\\yzk.net\\04、Lambda表达式\\obj\\",
+        "projectPath": "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\04、Lambda表达式\\04、Lambda表达式.csproj",
+        "packagesPath": "C:\\Users\\Administered\\.nuget\\packages\\",
+        "outputPath": "D:\\学习\\计算机\\.NET6杨中科\\yzk.net\\04、Lambda表达式\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SunLin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administered\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

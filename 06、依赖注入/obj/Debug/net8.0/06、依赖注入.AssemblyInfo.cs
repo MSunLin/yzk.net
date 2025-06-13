@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("06、依赖注入")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc40171bb8cc374b74908d2f5f215bfc4858512c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85acb5fe6acfabcfa8953f31b3390582a8e9af41")]
 [assembly: System.Reflection.AssemblyProductAttribute("06、依赖注入")]
 [assembly: System.Reflection.AssemblyTitleAttribute("06、依赖注入")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

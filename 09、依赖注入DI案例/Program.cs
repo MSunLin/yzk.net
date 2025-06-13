@@ -12,9 +12,16 @@ namespace _09_依赖注入DI案例
         static void Main(string[] args)
         {
             ServiceCollection services = new ServiceCollection();
-            services.AddScoped<ILogProvider, ConsoleLogProvider>();
-            services.AddScoped<IConfigService, EnvVarConfigService>();
+            //services.AddScoped<ILogProvider, ConsoleLogProvider>();
+            //services.AddScoped<IConfigService, EnvVarConfigService>();
             services.AddScoped<IMailService, MailService>();
+            //services.AddScoped(typeof(IConfigService) ,s=>new IniFileConfigService { FilePath = "mail.ini" });
+            services.AddIniFileConfig("mail.ini");
+
+            services.AddConsoleLog();
+
+           
+
             using (var sp = services.BuildServiceProvider())
             {
                 var mailService = sp.GetRequiredService<IMailService>();
